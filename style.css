@@ -62,7 +62,7 @@ h2{
 @media(max-width:900px){
     
     body {
-            background-image: url("pexels-benjamin-suter-3617500.jpg");
+            background-image: url("image/pexels-benjamin-suter-3617500.jpg");
             background-repeat: no-repeat;
             margin: 0;
             font-family: sans-serif;
@@ -85,6 +85,9 @@ h2{
     .clock div{
             margin: 2px;
             position: relative;
+            justify-content: center;
+            align-items: center;
+            
         
         }
     .clock span{
